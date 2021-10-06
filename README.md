@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @spdyone01
 - 👀 I’m interested in front-end development, the outdoors and anything technology!
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:  email: spdyone01@gmail.com
+- 📫 How to reach me:  email: trevor.widdi@gmail.com , linkedin: https://www.linkedin.com/in/trevor-widdison-5622b721b/
 
 <!---
 spdyone01/spdyone01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
